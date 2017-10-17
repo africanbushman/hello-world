@@ -19,7 +19,7 @@ For the best viewing experience please use a laptop or desktop and if possible u
 
 ## Technologies Used
 
-The technologies used is0 HTML.
+The technologies used is HTML.
 
 ## Support and contact details
 
